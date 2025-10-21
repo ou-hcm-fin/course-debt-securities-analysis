@@ -11,7 +11,7 @@ Tài liệu bài giảng và học liệu môn Phân tích Chứng khoán Nợ �
 Kho này lưu trữ tài liệu và mã minh họa cho môn *Phân tích chứng khoán nợ*.
 
 ## 📂 Cấu trúc
-- `lectures/` – Slides bài giảng (PDF hoặc Quarto) hoặc Lecture notes
+- `lectures/` – Slides bài giảng hoặc Lecture notes
 - `labs/` – Notebook, dữ liệu ví dụ
 - `assignments/` – Bài tập và hướng dẫn
 - `environment.yml` – Môi trường chạy code
