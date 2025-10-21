@@ -4,7 +4,7 @@ Tài liệu bài giảng và học liệu môn Phân tích Chứng khoán Nợ �
 # Phân tích Chứng khoán Nợ (Debt Securities Analysis)
 **Giảng viên: Vũ Hữu Thành**  
 **Khoa Tài chính Ngân hàng, Đại học Mở TP.HCM**
-
+📄 [ORCID](https://orcid.org/0000-0003-2306-2565) · [Google Scholar](https://scholar.google.com.vn/citations?user=z_h1dlMAAAAJ&hl=vi&authuser=1)
 ---
 
 ## 🧭 Giới thiệu
